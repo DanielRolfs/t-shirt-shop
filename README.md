@@ -1,4 +1,4 @@
-# t-shirt-shop
+# T-Shirt Shop
 
 Created in the spring of 2021 to fundraise to buy & build meditation retreat centers in Italy, Israel & Columbia.
 The t-shirt shop is only available for members of the [Diamond Way Buddist Network](http://dw-connect.org)
